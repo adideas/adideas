@@ -7,4 +7,9 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=adideas&show_icons=true&theme=dark&custom_title=Стек"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://www.ixbt.com/img/n1/news/2020/5/1/tenor-google.gif" width="100%"/>
+    </td>
+  </tr>
 </table>
