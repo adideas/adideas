@@ -9,6 +9,11 @@
   </tr>
   <tr>
     <td colspan="2">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=adideas&theme=dark" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <img src="https://www.ixbt.com/img/n1/news/2020/5/1/tenor-google.gif" width="100%"/>
     </td>
   </tr>
