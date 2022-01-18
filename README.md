@@ -14,6 +14,6 @@
     </td>
   </tr>
 </table>
-<a href="https://www.codewars.com/users/uff_auth">
+<a href="https://www.codewars.com/users/uff_auth" target="_blank">
 <img src="https://www.codewars.com/users/uff_auth/badges/large"/>
   </a>
