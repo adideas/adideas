@@ -14,5 +14,4 @@
     </td>
   </tr>
 </table>
-8746 - 2348 = 6398
 <img src="https://www.codewars.com/users/uff_auth/badges/large"/>
