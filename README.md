@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="100%" style="width: max-content;">
   <tbody width="100%">
     <tr>
       <td width="54%">
