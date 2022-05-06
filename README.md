@@ -1,4 +1,4 @@
-<table>
+<table b>
   <tbody>
     <tr>
       <td width="54%">
