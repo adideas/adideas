@@ -1,4 +1,4 @@
-<table background="red">
+<table width="100%">
   <tbody>
     <tr>
       <td width="54%">
