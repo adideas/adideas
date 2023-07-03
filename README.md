@@ -1,10 +1,15 @@
 <h4>Contributor: </h4>
 <ul>
   <li>
-  <a href="https://github.com/SquareGPS/navixy-api">Navixy API</a>
-  </li>
-  <li>
   <a href="https://github.com/laravel/framework">Laravel Framework</a>
+  </li>
+  
+  <li>
+  <a href="https://github.com/gladyshev/rucaptcha-client/pull/12">Rucaptcha Client</a>
+  </li>
+  
+  <li>
+  <a href="https://github.com/SquareGPS/navixy-api">Navixy API</a>
   </li>
 </ul>
 
