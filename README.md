@@ -3,6 +3,9 @@
   <li>
   <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Aadideas+">Laravel Framework</a>
   </li>
+  <li>
+    <a href="https://github.com/laravel/docs/pulls?q=is%3Apr+author%3Aadideas+">Laravel Docs</a>
+  </li>
   
   <li>
   <a href="https://github.com/gladyshev/rucaptcha-client/pull/12">Rucaptcha Client</a>
