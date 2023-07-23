@@ -12,7 +12,7 @@
   </li>
   
   <li>
-  <a href="https://github.com/SquareGPS/navixy-api">Navixy API</a>
+  <a href="https://github.com/SquareGPS/navixy-api/pulls?q=is%3Apr+author%3Aadideas+">Navixy API</a>
   </li>
 </ul>
 
