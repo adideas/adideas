@@ -16,13 +16,6 @@
   </li>
 </ul>
 
-<h4>Article</h4>
-<ul>
-  <li>
-    <a href="https://habr.com/ru/articles/752310/">Habr article</a>
-  </li>
-</ul>
-
 <h4>Contact me: </h4>
 <ul>
   <li>
