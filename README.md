@@ -16,12 +16,6 @@
   </li>
 </ul>
 
-<h4>Contact me: </h4>
-<ul>
-  <li>
-  <a href="https://t.me/no_index">Telegram</a>
-  </li>
-</ul>
 <br/>
 <br/>
 <br/>
